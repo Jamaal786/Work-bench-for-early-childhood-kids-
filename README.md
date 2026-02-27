@@ -1,19 +1,19 @@
 # Work bench for eary childhood kids
 
 ## 📌 Overview
-This was my year 13 project for the course product design. I worked with a main client and stakeholders who gave me a problem and certain requirements that they needed for the product to have. For this project, the children had carpentry tools that did not have a proper storage space. The chldren also did not have a proper area to use the tools. My client and stakeholder wanted a custom built product to store the carpentry tools and an area for them to work.
+This was my year 13 project for the course product design. I worked with a main client and stakeholders who gave me a problem and certain requirements that they needed for the product to have. For this project, the children had carpentry tools that did not have a proper storage space. The children also did not have a proper area to use the tools. My client and stakeholder wanted a custom built product to store the carpentry tools and an area for them to work.
 
 ## 🎯 Objectives
 - Must be safe for children i.e. stable, proper finishing, sanded
 - Hold carpentry items
-- A big enough area for the children to play around with the toys
+- A big area for the children to use equipment
 
 ## 🛠 Tools & Concepts Used
 - Inventor
 - Carpentry tools and knowledge
 
 ## 🔍 Methodology
-The first thing I needed to do was find out the requirements that both my client and stakeholders needed for this carpentry item. The requirements included : <br>
+ The requirements from my client and stakholderes : <br>
 - must be safe
 - must hold carpentry items such as hammers, saws, helmets, screwdrivers, saws, shoes
 - A table for the kids to use for their work
@@ -21,18 +21,25 @@ The first thing I needed to do was find out the requirements that both my client
 - Internal storage to put away all the items when closing up, preferrably with a lock and key
 - Rounded edges around table top
 <br>
-After recieving the requirements, I did some research on existing carpentry storage and types of work benches available for children. After researching different types of work benches and storage available, I implemented concepts and themes into designs, which I showed to my client and stakeholder. After consideration, they decided on a final design which they wanted. After the final design was chosen, I created a specifications list for me to follow during construction, and made some 3D modelling of the design. Using the 3D modelling, I could create a parts list for cutting. 
+After receiving the project requirements, I researched existing carpentry storage solutions and children’s workbench designs. The key concepts identified were incorporated into several design proposals, which were presented to the client and stakeholder.<br>
+
+Once a final design was selected, I developed a detailed specification list to guide construction. The 3D model was used to determine precise dimensions and angles, and to generate an accurate parts list for fabrication.
 <br>
 
 ### Frame and panel
-The frame was made up of treated timbre wood. I created a parts list to send off to my teacher, who used a mitre saw to obtain the correct angle. The frame followed the table shape of a hexagon to ensure multiple children could work at the table at the same time. With the hexagon shape, more tools could be hung on the panels compared to just one rectangular work bench. The frame was attached to each other via glue and screws. This was particulary difficult due to the wood warping. So I needed help from clamps and the teachers experience. <br>
+The frame was constructed using treated timber. I created a detailed parts list for my teacher, who used a mitre saw to cut the members to the required angles. The hexagonal table design was selected to allow multiple children to work simultaneously. Compared to a rectangular workbench, the hexagonal configuration also provided additional panel surfaces for tool storage. <br>
 
-After the frame was completed, I had to attach the panels. This was tricky due to the angle the MDF had to be cut. However, with clamps, glue and screws, it was attached onto the frame. There was still some warping and bad fitment in some areas. It needed sanding and adjustments to make it a snug fit.
+The frame components were assembled using wood glue and screws. This stage was particularly challenging due to timber warping, which made alignment difficult. Clamps were used extensively to maintain positioning during assembly and ensure structural stability.<br>
+
+After completing the frame, the MDF panels were attached. Accurate angle cuts were required to match the hexagonal geometry, making installation more complex. The panels were secured using glue and screws. Minor warping resulted in imperfect fitment in certain areas, which was corrected through sanding and incremental adjustments to achieve a clean and flush finish.
 
 ### Table top, support, and lid
 
-The table was made up of MDF as well and had a hexagonal shape. I used a circular saw to cut the table into shape. I had a make-shift jig to ensure I cut in a straight line. After cutting the table, I used a router to round off the edges and sanded the top surface to ensure a smooth and clean finish. The support was a simple square MDF which was then attached to each other though screws and wood glue. However, a problem did arise when I placed the frame ontop of the table top. The frame was too big and there was not enough space for the kids to work on the table top. To tackle this, I shifted the frame to the edge, and adjusted the support on the bottom to ensure stability. This made sure that there was 3 working edsges for the children to use easily, and only one panel could not be accessed. However, that panel could be flushed against the wall. The client and stakeholders agreed with the change of the design. The lid for covering the storage unit was also a simple hexagonal shape from leftoever material. I attached handles to the top and added a lock to the edge so it could be locked and nothing could be stolen. 
+The tabletop was constructed from MDF and cut into a hexagonal shape using a circular saw. A makeshift jig was used to maintain straight and consistent cuts. After shaping the panel, a router was used to round over the edges, and the surface was sanded to achieve a smooth and safe finish suitable for children. The base support consisted of a square MDF panel, assembled using wood glue and screws to provide structural stability.<br>
 
+During assembly, an issue arose when the frame was positioned on top of the tabletop. The frame footprint was larger than anticipated, reducing the available working area for the children. To resolve this, the frame was repositioned toward the edge of the tabletop, and the base support was adjusted accordingly to maintain stability. This modification created three fully accessible working edges, while one panel was positioned to sit flush against a wall. The client and stakeholders reviewed and approved this design adjustment. <br>
+
+The storage lid was fabricated from leftover MDF and cut into a matching hexagonal shape. Handles were installed for ease of use, and a locking mechanism was added to secure the stored tools.
 
 ## 📊 Results
 - The table worked perfectly even with the change at the end.
@@ -64,5 +71,6 @@ The table was made up of MDF as well and had a hexagonal shape. I used a circula
 - How to work with client and stakeholders
 - New tools and techniques
 - How to deal with expensive mistakes
+- Designing for children is more challenging than designing for adults due to size diferences and safety compliance
 
 
